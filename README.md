@@ -1,2 +1,3 @@
-# DSA-Using-Java
-A collection of Data Structures and Algorithms implemented in Java, including sorting, searching, hashing, and other DSA concepts practiced during my learning.
+A learning repository where I practise Data Structures and Algorithms using Java as part of my MCA journey.
+
+I'm building my problem-solving skills by implementing algorithms, understanding their logic, and improving my code as I learn.
