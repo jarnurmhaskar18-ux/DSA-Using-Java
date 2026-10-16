@@ -10,16 +10,17 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 - Linear Search
 - Binary Search
 
+### Sorting Algorithms
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Shell Sort
+
 ##  Repository Structure
 
-```text
-DSA-Using-Java/
-├── 01-Searching/
-│   ├── LinearSearch.java
-│   └── BinarySearch.java
-├── .gitignore
-└── README.md
-```
+- 1-Searching/ — Searching algorithm implementations
+- 02-Sorting/ — Sorting algorithm implementations
 
 ##  Technologies Used
 
