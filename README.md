@@ -52,7 +52,7 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 
 Replace `BinarySearch` with the appropriate class name for another program.
 
-## 🌱 Learning Approach
+##  Learning Approach
 
 - Practise algorithms using Java.
 - Understand the logic behind each implementation.
