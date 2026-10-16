@@ -17,10 +17,21 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 - Insertion Sort
 - Shell Sort
 
-##  Repository Structure
+### Hashing Techniques
 
-- 1-Searching/ — Searching algorithm implementations
-- 02-Sorting/ — Sorting algorithm implementations
+- Modulo Division Hashing
+- Digit Extraction Hashing
+
+### Stack Operations
+
+- push
+- pop
+- peek
+
+### Queue Operations
+
+- Enqueue
+- Dequeue
 
 ##  Technologies Used
 
