@@ -33,6 +33,12 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 - Enqueue
 - Dequeue
 
+### Applications Of Stack Data Structure
+
+- Parenthesis Balancing
+- Infix To Postfix Expression
+- Postfix Expression Evaluation
+  
 ##  Technologies Used
 
 - Java
