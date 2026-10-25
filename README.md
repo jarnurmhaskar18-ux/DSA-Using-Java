@@ -43,6 +43,7 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 
 - Singly Linked List
 - Doubly Linked List
+- Circular Linked List
   
 ##  Technologies Used
 
