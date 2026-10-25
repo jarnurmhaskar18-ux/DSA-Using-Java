@@ -38,6 +38,10 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 - Parenthesis Balancing
 - Infix To Postfix Expression
 - Postfix Expression Evaluation
+
+### Linked List
+
+- Singly Linked List
   
 ##  Technologies Used
 
