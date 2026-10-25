@@ -42,6 +42,7 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 ### Linked List
 
 - Singly Linked List
+- Doubly Linked List
   
 ##  Technologies Used
 
