@@ -71,7 +71,7 @@ Replace `BinarySearch` with the appropriate class name for another program.
 
 ##  Learning Approach
 
-- Practise algorithms using Java.
+- Practice algorithms using Java.
 - Understand the logic behind each implementation.
 - Test programs with different inputs.
 - Improve code readability and correctness.
