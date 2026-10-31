@@ -47,8 +47,8 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 
 ### Applications Of Singly Linked List
 - Polynomial Addition
-
-### Stack Using Singly Linked List
+- Stack Using Singly Linked List
+- Queue Using Singly Linked List
 
 ##  Technologies Used
 
