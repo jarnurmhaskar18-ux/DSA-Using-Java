@@ -50,6 +50,10 @@ I'm building my problem-solving skills by implementing algorithms, understanding
 - Stack Using Singly Linked List
 - Queue Using Singly Linked List
 
+### Priority Queue and Deque
+- Priority Queue
+- Deque
+
 ##  Technologies Used
 
 - Java
